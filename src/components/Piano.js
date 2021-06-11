@@ -1,5 +1,5 @@
 /* eslint-disable default-case */
-import React, { useState } from 'react';
+import React from 'react';
 import * as Tone from 'tone'
 import './piano.scss'
 //import Animation from "./Animation"
